@@ -5,7 +5,7 @@ while i == 0:
     # number input
     Num1 = input("First number: ")
     # exit sequence
-    if Num1 == "e" or Num2 == "e":
+    if Num1 == "e":
         exit()
     # number input
     Num2 = input("Second number: ")
