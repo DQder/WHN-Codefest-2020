@@ -25,9 +25,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Problem 02">
+    <configuration name="Problem 01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WHN-Codefest-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/Problem 01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Problem 01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WHN-Codefest-2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,8 +71,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Problem 02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WHN-Codefest-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/Problem 02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem 02" />
+        <item itemvalue="Python.Problem 01 (1)" />
         <item itemvalue="Python.Problem 01" />
       </list>
     </recent_temporary>
@@ -85,25 +130,29 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="21" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.816@0.23.1440.816" timestamp="1589811647355" />
-    <state width="1419" height="207" key="GridCell.Tab.0.bottom" timestamp="1589811771533">
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom" timestamp="1589816875059">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1589811771533" />
-    <state width="1419" height="207" key="GridCell.Tab.0.center" timestamp="1589811771533">
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1589816875059" />
+    <state width="1419" height="209" key="GridCell.Tab.0.center" timestamp="1589816875058">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1589811771533" />
-    <state width="1419" height="207" key="GridCell.Tab.0.left" timestamp="1589811771532">
+    <state width="1419" height="209" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1589816875058" />
+    <state width="1419" height="209" key="GridCell.Tab.0.left" timestamp="1589816875058">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1589811771532" />
-    <state width="1419" height="207" key="GridCell.Tab.0.right" timestamp="1589811771533">
+    <state width="1419" height="209" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1589816875058" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right" timestamp="1589816875059">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1589811771533" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1589816875059" />
     <state x="110" y="66" key="SettingsEditor" timestamp="1589811681061">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="110" y="66" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1589811681061" />
+    <state x="385" y="163" width="670" height="676" key="search.everywhere.popup" timestamp="1589816605712">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="385" y="163" width="670" height="676" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1589816605712" />
   </component>
 </project>
