@@ -1,0 +1,1 @@
+# bunu geçmişte yaptım tekrarlamıyorum
